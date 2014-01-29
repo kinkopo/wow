@@ -104,5 +104,9 @@
           });
       </script>
 
+      <?php
+      print("<p>This is <strong>edited</strong> line</p>");
+      ?>
+
   </body>
 </html>
